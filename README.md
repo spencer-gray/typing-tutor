@@ -6,8 +6,6 @@ A simple tool used to practice typing than can be run inside the terminal. Rando
 
 The ncurses library is required.
 
-What things you need to install the software and how to install them
-
 Linux:
 ```
 Sudo apt-get install libncurses5-dev libncursesw5-dev
